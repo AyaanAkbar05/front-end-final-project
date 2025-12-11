@@ -1,4 +1,3 @@
-import React from "react";
 import AuthForm from "../components/AuthForm";
 import client from "../api/client";
 import { useNavigate } from "react-router-dom";

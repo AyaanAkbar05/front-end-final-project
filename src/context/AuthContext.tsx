@@ -1,6 +1,6 @@
 import React, { createContext, useEffect, useState } from "react";
 import type { UserPayload } from "../types";
-import client from "../api/client";
+
 
 interface AuthState {
   user: UserPayload | null;
