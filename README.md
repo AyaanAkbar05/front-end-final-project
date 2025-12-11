@@ -1,6 +1,6 @@
 # TaskMaster
 
-TaskMaster is a full-stack project and task management application built with a modern JavaScript stack. It includes secure authentication, project and task CRUD operations, and a clean SPA frontend built with React and TypeScript.
+TaskMaster is a full-stack project and task management application built with a modern JavaScript stack. It includes secure authentication, project and task CRUD operations, and a clean frontend built with React and TypeScript.
 
 ---
 
